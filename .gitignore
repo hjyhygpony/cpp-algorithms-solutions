@@ -1,0 +1,20 @@
+# Build output
+*.exe
+*.out
+*.o
+*.obj
+*.gch
+*.pch
+a.out
+
+# Editors
+.vscode/
+.idea/
+*.iml
+
+# OS / archives
+.DS_Store
+Thumbs.db
+*.zip
+*.rar
+*.7z
